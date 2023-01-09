@@ -397,11 +397,11 @@ logo = ("""
 \x1b[1;92m      
 \x1b[1;92m      
 
-   \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : {Cyber 71}       ║
-   \x1b[1;92m║➣AUTHOR    : SWAPON MIA        ║
-   \x1b[1;92m║➣WHATSAPP    : 01949***** ║
-   \x1b[1;92m║➣FACEBOOK  : MD SWAPON MIA          ║
+   \x1b[1;92m╔════════════════════════════════╗
+   \x1b[1;92m║➣TOOL NAME : {Cyber 71}              ║
+   \x1b[1;92m║➣AUTHOR    : SWAPON MIA              ║
+   \x1b[1;92m║➣WHATSAPP    : 01949*****            ║
+   \x1b[1;92m║➣FACEBOOK  : MD SWAPON MIA           ║
    \x1b[1;92m║➣Group     : CYBER 71 SPAMMING SQUAD ║
    \x1b[1;92m║➣YOUTUBE  : [ TECHNOLOGY BOY ]       ║
    \x1b[1;92m╚═════════════════════════════╝""")
@@ -1296,7 +1296,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/Rx-Jishan/Termux-Rx-Jishan-/blob/main/Approved.txt").text
+	r1=requests.get("https://github.com/Swapon-Vau/Clone-FB/blob/main/Clone-FB.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
