@@ -397,14 +397,14 @@ logo = ("""
 \x1b[1;92m      
 \x1b[1;92m      
 
-   \x1b[1;92m╔═══════════════════════════════════╗
+   \x1b[1;92m╔═════════════════════════════════════╗
    \x1b[1;92m║➣TOOL NAME : {Cyber 71}              ║
    \x1b[1;92m║➣AUTHOR    : SWAPON MIA              ║
    \x1b[1;92m║➣WHATSAPP  : 01949*****              ║
    \x1b[1;92m║➣FACEBOOK  : MD SWAPON MIA           ║
    \x1b[1;92m║➣Group     : CYBER 71 SPAMMING SQUAD ║
    \x1b[1;92m║➣YOUTUBE   : [ TECHNOLOGY BOY ]      ║
-   \x1b[1;92m╚═══════════════════════════════════╝""")
+   \x1b[1;92m╚═════════════════════════════════════╝""")
 
 class Main:
 	def __init__(self):
