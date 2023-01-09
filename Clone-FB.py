@@ -86,7 +86,7 @@ def back():
 
 Cyber="Swapon-"
 imt="-2.0=="
-Cyber="SWAPON-"
+C71="SWAPON-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
