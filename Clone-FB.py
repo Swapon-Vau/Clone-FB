@@ -84,7 +84,7 @@ def clear():
 def back():
 	login()
 
-Cyber="Swapon-"
+Cyber="71-"
 imt="-2.0=="
 C71="SWAPON-"
 myid=uuid.uuid4().hex[:10].upper()
