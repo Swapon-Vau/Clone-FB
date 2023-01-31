@@ -7,6 +7,7 @@
 <li><code>pip install mechanize</code></li>
 <li><code>pip install futures</code></li>
 <li><code>pip install rich</code></li>
+<li><code>pip install bs4</code></li>
 <li><code>rm -rf Clone-FB</code></li>
 <li><code>git clone https://github.com/Swapon-Vau/Clone-FB.git</code></li>
 <li><code>git pull</code></li>
